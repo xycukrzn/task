@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NikolayDorozhkin3/1.0.0": {
+        "runtime": {
+          "NikolayDorozhkin3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NikolayDorozhkin3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

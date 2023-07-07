@@ -1,0 +1,15 @@
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\obj\Debug\net6.0\NikolayDorozhkin1.csproj.AssemblyReference.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\obj\Debug\net6.0\NikolayDorozhkin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\obj\Debug\net6.0\NikolayDorozhkin1.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\obj\Debug\net6.0\NikolayDorozhkin1.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\obj\Debug\net6.0\NikolayDorozhkin1.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\bin\Debug\net6.0\NikolayDorozhkin1.exe
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\bin\Debug\net6.0\NikolayDorozhkin1.deps.json
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\bin\Debug\net6.0\NikolayDorozhkin1.runtimeconfig.json
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\bin\Debug\net6.0\NikolayDorozhkin1.dll
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\bin\Debug\net6.0\NikolayDorozhkin1.pdb
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\obj\Debug\net6.0\NikolayDorozhkin1.dll
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\obj\Debug\net6.0\refint\NikolayDorozhkin1.dll
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\obj\Debug\net6.0\NikolayDorozhkin1.pdb
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\obj\Debug\net6.0\NikolayDorozhkin1.genruntimeconfig.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\NikolayDorozhkin1\obj\Debug\net6.0\ref\NikolayDorozhkin1.dll
