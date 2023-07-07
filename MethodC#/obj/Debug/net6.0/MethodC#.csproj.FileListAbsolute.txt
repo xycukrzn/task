@@ -1,0 +1,15 @@
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\obj\Debug\net6.0\MethodC#.csproj.AssemblyReference.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\obj\Debug\net6.0\MethodC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\obj\Debug\net6.0\MethodC#.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\obj\Debug\net6.0\MethodC#.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\obj\Debug\net6.0\MethodC#.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\bin\Debug\net6.0\MethodC#.exe
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\bin\Debug\net6.0\MethodC#.deps.json
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\bin\Debug\net6.0\MethodC#.runtimeconfig.json
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\bin\Debug\net6.0\MethodC#.dll
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\bin\Debug\net6.0\MethodC#.pdb
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\obj\Debug\net6.0\MethodC#.dll
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\obj\Debug\net6.0\refint\MethodC#.dll
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\obj\Debug\net6.0\MethodC#.pdb
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\obj\Debug\net6.0\MethodC#.genruntimeconfig.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\MethodC#\obj\Debug\net6.0\ref\MethodC#.dll
