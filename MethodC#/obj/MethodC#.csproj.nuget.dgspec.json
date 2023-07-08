@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\MethodC#.csproj": {}
+    "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\MethodC#.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\MethodC#.csproj": {
+    "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\MethodC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\MethodC#.csproj",
+        "projectUniqueName": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\MethodC#.csproj",
         "projectName": "MethodC#",
-        "projectPath": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\MethodC#.csproj",
+        "projectPath": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\MethodC#.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\obj\\",
+        "outputPath": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config"

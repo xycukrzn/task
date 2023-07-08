@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin2\\NikolayDorozhkin2.csproj": {}
+    "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin2\\NikolayDorozhkin2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin2\\NikolayDorozhkin2.csproj": {
+    "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin2\\NikolayDorozhkin2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin2\\NikolayDorozhkin2.csproj",
+        "projectUniqueName": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin2\\NikolayDorozhkin2.csproj",
         "projectName": "NikolayDorozhkin2",
-        "projectPath": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin2\\NikolayDorozhkin2.csproj",
+        "projectPath": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin2\\NikolayDorozhkin2.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin2\\obj\\",
+        "outputPath": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config"
