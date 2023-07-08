@@ -2,32 +2,20 @@
 
 
 
-int GetRandomNumber()
-{
-    int number = new Random().Next(10,100);
-    Console.WriteLine(number);
-    return number;
-}
+Random random = new Random();
+        int randomNumber = random.Next(10, 100);
+        Console.WriteLine("Сгенерированное число: " + randomNumber);
 
-int GetFirstDigit(int number1)
-{
-    //number1 = number1/10;
-    return number1 / 10;
-}
+        int maxDigit = 0;
+        int number = randomNumber;
+        while (number > 0)
+        {
+            int digit = number % 10;
+            if (digit > maxDigit)
+            {
+                maxDigit = digit;
+            }
+            number /= 10;
+        }
 
-int GetLastDigit(int number1)
-{
-    return number1 / 10
-}
-
-void PrintNumber(int num1)
-{
-    Console.WriteLine(num1);
-}
-
-int num = GetRandomNumber();
-PrintNumber(num);
-int firstDigit = GetFirstDigit(num);
-PrintNumber(firstDigit);
-int lastDigit = GetLastDigit(num);
-PrintNumber(lastDigit);
+        Console.WriteLine("Наибольшая цифра числа: " + maxDigit);
