@@ -1,0 +1,15 @@
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\bin\Debug\net6.0\C#Seminar2Hometask.exe
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\bin\Debug\net6.0\C#Seminar2Hometask.deps.json
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\bin\Debug\net6.0\C#Seminar2Hometask.runtimeconfig.json
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\bin\Debug\net6.0\C#Seminar2Hometask.dll
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\bin\Debug\net6.0\C#Seminar2Hometask.pdb
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\obj\Debug\net6.0\C#Seminar2Hometask.csproj.AssemblyReference.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\obj\Debug\net6.0\C#Seminar2Hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\obj\Debug\net6.0\C#Seminar2Hometask.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\obj\Debug\net6.0\C#Seminar2Hometask.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\obj\Debug\net6.0\C#Seminar2Hometask.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\obj\Debug\net6.0\C#Seminar2Hometask.dll
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\obj\Debug\net6.0\refint\C#Seminar2Hometask.dll
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\obj\Debug\net6.0\C#Seminar2Hometask.pdb
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\obj\Debug\net6.0\C#Seminar2Hometask.genruntimeconfig.cache
+C:\Users\Nikolay\Desktop\GeekBrains\C#\C#Seminar2Hometask\obj\Debug\net6.0\ref\C#Seminar2Hometask.dll
