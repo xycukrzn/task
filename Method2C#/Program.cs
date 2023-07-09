@@ -35,11 +35,11 @@ int number2 = int.Parse(Console.ReadLine());
 
 if (number2 % number1 == 0)
 {
-    Console.WriteLine("Число" + number2 + "является кратным числу " + number2;
+    Console.WriteLine("Число " + number2 + " является кратным числу " + number2);
 }
 else
 {
     int reminder = number2 % number1;
     Console.WriteLine("Число" + number2 + " не является кратным числу " + number1);
-    Console.WriteLine("Остаток от деления " + reminder);
+    Console.WriteLine("Остаток от деления: " + reminder);
 }
