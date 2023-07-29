@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\MethodC#.csproj",
+      "projectUniqueName": "c:\\Users\\Nikolay\\task\\MethodC#\\MethodC#.csproj",
       "projectName": "MethodC#",
-      "projectPath": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\MethodC#.csproj",
+      "projectPath": "c:\\Users\\Nikolay\\task\\MethodC#\\MethodC#.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\MethodC#\\obj\\",
+      "outputPath": "c:\\Users\\Nikolay\\task\\MethodC#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

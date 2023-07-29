@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\task0\\task0.csproj": {}
+    "c:\\Users\\Nikolay\\task\\task0\\task0.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\task0\\task0.csproj": {
+    "c:\\Users\\Nikolay\\task\\task0\\task0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\task0\\task0.csproj",
+        "projectUniqueName": "c:\\Users\\Nikolay\\task\\task0\\task0.csproj",
         "projectName": "task0",
-        "projectPath": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\task0\\task0.csproj",
+        "projectPath": "c:\\Users\\Nikolay\\task\\task0\\task0.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\task0\\obj\\",
+        "outputPath": "c:\\Users\\Nikolay\\task\\task0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin3\\NikolayDorozhkin3.csproj": {}
+    "c:\\Users\\Nikolay\\task\\NikolayDorozhkin3\\NikolayDorozhkin3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin3\\NikolayDorozhkin3.csproj": {
+    "c:\\Users\\Nikolay\\task\\NikolayDorozhkin3\\NikolayDorozhkin3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin3\\NikolayDorozhkin3.csproj",
+        "projectUniqueName": "c:\\Users\\Nikolay\\task\\NikolayDorozhkin3\\NikolayDorozhkin3.csproj",
         "projectName": "NikolayDorozhkin3",
-        "projectPath": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin3\\NikolayDorozhkin3.csproj",
+        "projectPath": "c:\\Users\\Nikolay\\task\\NikolayDorozhkin3\\NikolayDorozhkin3.csproj",
         "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Nikolay\\Desktop\\GeekBrains\\C#\\NikolayDorozhkin3\\obj\\",
+        "outputPath": "c:\\Users\\Nikolay\\task\\NikolayDorozhkin3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }
