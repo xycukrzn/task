@@ -1,0 +1,5 @@
+C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.csproj.AssemblyReference.cache
+C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.AssemblyInfoInputs.cache
+C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.AssemblyInfo.cs
+C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.csproj.CoreCompileInputs.cache
