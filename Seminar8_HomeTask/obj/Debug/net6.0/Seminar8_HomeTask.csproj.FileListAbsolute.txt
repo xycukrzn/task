@@ -3,3 +3,13 @@ C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.Gener
 C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.AssemblyInfoInputs.cache
 C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.AssemblyInfo.cs
 C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\task\Seminar8_HomeTask\bin\Debug\net6.0\Seminar8_HomeTask.exe
+C:\Users\Nikolay\task\Seminar8_HomeTask\bin\Debug\net6.0\Seminar8_HomeTask.deps.json
+C:\Users\Nikolay\task\Seminar8_HomeTask\bin\Debug\net6.0\Seminar8_HomeTask.runtimeconfig.json
+C:\Users\Nikolay\task\Seminar8_HomeTask\bin\Debug\net6.0\Seminar8_HomeTask.dll
+C:\Users\Nikolay\task\Seminar8_HomeTask\bin\Debug\net6.0\Seminar8_HomeTask.pdb
+C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.dll
+C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\refint\Seminar8_HomeTask.dll
+C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.pdb
+C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\Seminar8_HomeTask.genruntimeconfig.cache
+C:\Users\Nikolay\task\Seminar8_HomeTask\obj\Debug\net6.0\ref\Seminar8_HomeTask.dll
