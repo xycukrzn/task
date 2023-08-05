@@ -1,0 +1,15 @@
+C:\Users\Nikolay\task\AttestationC#\bin\Debug\net6.0\AttestationC#.exe
+C:\Users\Nikolay\task\AttestationC#\bin\Debug\net6.0\AttestationC#.deps.json
+C:\Users\Nikolay\task\AttestationC#\bin\Debug\net6.0\AttestationC#.runtimeconfig.json
+C:\Users\Nikolay\task\AttestationC#\bin\Debug\net6.0\AttestationC#.dll
+C:\Users\Nikolay\task\AttestationC#\bin\Debug\net6.0\AttestationC#.pdb
+C:\Users\Nikolay\task\AttestationC#\obj\Debug\net6.0\AttestationC#.csproj.AssemblyReference.cache
+C:\Users\Nikolay\task\AttestationC#\obj\Debug\net6.0\AttestationC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\task\AttestationC#\obj\Debug\net6.0\AttestationC#.AssemblyInfoInputs.cache
+C:\Users\Nikolay\task\AttestationC#\obj\Debug\net6.0\AttestationC#.AssemblyInfo.cs
+C:\Users\Nikolay\task\AttestationC#\obj\Debug\net6.0\AttestationC#.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\task\AttestationC#\obj\Debug\net6.0\AttestationC#.dll
+C:\Users\Nikolay\task\AttestationC#\obj\Debug\net6.0\refint\AttestationC#.dll
+C:\Users\Nikolay\task\AttestationC#\obj\Debug\net6.0\AttestationC#.pdb
+C:\Users\Nikolay\task\AttestationC#\obj\Debug\net6.0\AttestationC#.genruntimeconfig.cache
+C:\Users\Nikolay\task\AttestationC#\obj\Debug\net6.0\ref\AttestationC#.dll
